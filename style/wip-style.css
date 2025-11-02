@@ -1,0 +1,9 @@
+.wip-image {
+    display: flex;
+    justify-content: center;
+}
+
+.wip-title {
+    text-align: center;
+    font-family: verdana;
+}
